@@ -1,4 +1,4 @@
-# JA
+# Jeremy's Adventure
 I made this game for a school project,
 It took me 2 weeks,
 There are 2 characters,
